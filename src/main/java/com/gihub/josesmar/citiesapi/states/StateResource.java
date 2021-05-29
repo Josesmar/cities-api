@@ -1,4 +1,4 @@
-package com.gihub.josesmar.citiesapi.staties;
+package com.gihub.josesmar.citiesapi.states;
 
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
