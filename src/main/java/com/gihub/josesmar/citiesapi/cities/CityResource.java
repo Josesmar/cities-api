@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("cities")
 public class CityResource {
 
-    private final CityRespository repository;
+    private final CityRepository repository;
 
-    public CityResource(final CityRespository repository) {
+    public CityResource(final CityRepository repository) {
         this.repository = repository;
     }
 

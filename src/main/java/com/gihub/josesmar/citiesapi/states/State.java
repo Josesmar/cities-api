@@ -1,4 +1,4 @@
-package com.gihub.josesmar.citiesapi.staties;
+package com.gihub.josesmar.citiesapi.states;
 import com.gihub.josesmar.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
